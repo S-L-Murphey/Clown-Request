@@ -1,0 +1,32 @@
+{
+  "clowns": [],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Danny Tamberelli",
+      "email": "dtamb@gmail.com",
+      "phone": "615-333-444"
+    }
+  ],
+  "completions": [],
+  "requests": [
+    {
+      "parentName": "Mark",
+      "childName": "Matthew",
+      "attendance": "12",
+      "address": "123 Bell Rd.",
+      "duration": "2",
+      "date": "2021-05-29",
+      "id": 1
+    },
+    {
+      "parentName": "Mark",
+      "childName": "James",
+      "attendance": "10",
+      "address": "1814 Halloween Ave.",
+      "duration": "3",
+      "date": "2021-06-05",
+      "id": 2
+    }
+  ]
+}

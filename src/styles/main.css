@@ -1,0 +1,11 @@
+div {
+    display:flex;
+    flex-direction:column
+}
+button {
+    margin-top: 1rem;
+}
+
+.field {
+    margin-top:.5rem;
+}
